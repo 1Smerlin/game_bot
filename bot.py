@@ -93,9 +93,9 @@ def checkNettle(item_name, image_name):
 
 
 # search_item = [0, 1]
-search_item = [1]
+search_item = [2]
 
-item_list = ["eisen", "holz"]
+item_list = ["eisen", "holz", "holz4lv"]
 
 load_triger()
 while run:
